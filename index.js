@@ -12,4 +12,4 @@ function mulitply(a, b) {
 
 function divide(a, b) {
   returns a/b;
-}
+};
