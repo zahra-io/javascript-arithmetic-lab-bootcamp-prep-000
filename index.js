@@ -8,4 +8,8 @@ function subtract(a, b) {
 
 function mulitply(a, b) {
   return a * b;
+};
+
+function divide(a, b) {
+  returns a/b;
 }
